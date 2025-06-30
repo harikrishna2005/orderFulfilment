@@ -1,0 +1,15 @@
+# Ignore everything in lib and Scripts folders
+lib/
+Scripts/
+
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
